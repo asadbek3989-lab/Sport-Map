@@ -1,0 +1,5 @@
+id,name,district,address,lat,lon,phone,tg_username,owner_tg_id,hours,prices,amenities,photos,free_trial,notes,active
+g001,Power House,Chilonzor,"Chilonzor, 9-kvartal, Bunyodkor ko'chasi 12",41.2755,69.2030,+998900000001,,,"Du-Sha 06:00-23:00, Yak 08:00-20:00","1 oy: 350 000 so'm; 3 oy: 900 000 so'm; Kunlik: 40 000 so'm","Kardio zona, erkin og'irliklar, dush, shkaf, parkovka",,ha,"Yangi mijozlarga 1-mashg'ulotda murabbiy tanishuv suhbati bepul",ha
+g002,Iron Fit,Yunusobod,"Yunusobod, 4-kvartal, Amir Temur shoh ko'chasi 45",41.3640,69.2890,+998900000002,,,"Har kuni 07:00-22:00","1 oy: 450 000 so'm; 6 oy: 2 200 000 so'm","Treadmill, kross-fit zonasi, sauna, dush, wi-fi",,ha,"Ayollar uchun alohida soat: 10:00-12:00",ha
+g003,Fit Club Mirobod,Mirobod,"Mirobod, Taras Shevchenko ko'chasi 28",41.2990,69.2750,+998900000003,,,"Du-Ju 06:00-22:00","1 oy: 400 000 so'm; 3 oy: 1 050 000 so'm","Guruh mashg'ulotlari (yoga, aerobika), dush, kafe",,yo'q,,ha
+g004,Olmazor Gym,Olmazor,"Olmazor, Qorasaroy ko'chasi 7",41.3450,69.2200,+998900000004,,,"Du-Sha 07:00-23:00","1 oy: 300 000 so'm; Kunlik: 35 000 so'm","Erkin og'irliklar, kardio zona, shkaf",,ha,,ha

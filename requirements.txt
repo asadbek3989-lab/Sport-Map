@@ -1,0 +1,6 @@
+aiogram>=3.13,<4
+google-genai>=1.0
+gspread>=6.0
+firebase-admin>=6.5.0
+python-dotenv>=1.0
+tzdata
